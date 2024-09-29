@@ -38,6 +38,10 @@ This project includes both a **Command-Line Interface (CLI)** and a **Graphical 
 
 ### CLI Version
 1. **Clone or download** this repository.
+   ```bash
+   git clone https://github.com/AnujYadav-Dev/todo-mate.git
+   cd todo-mate
+   ```
 2. Run the CLI version with:
    ```bash
    python To-Do-List-CLI.py

@@ -39,28 +39,28 @@ This project includes both a **Command-Line Interface (CLI)** and a **Graphical 
 ### CLI Version
 1. **Clone or download** this repository.
 2. Run the CLI version with:
-   \`\`\`bash
-   python todo_list_cli.py
-   \`\`\`
+   ```bash
+   python To-Do-List-CLI.py
+   ```
    Use the options presented in the CLI to manage your tasks.
 
 ### GUI Version
 1. Clone or download this repository.
 2. Run the GUI version with:
-   \`\`\`bash
-   python todo_list_gui.py
-   \`\`\`
+   ```bash
+   python To-Do-List-GUI.py
+   ```
    A windowed interface will appear where you can manage your tasks with ease.
 
 ---
 
 ## File Structure
 
-\`\`\`plaintext
-├── todo_list_cli.py    # CLI version of the To-Do List
-├── todo_list_gui.py    # GUI version of the To-Do List using tkinter
+```plaintext
+├── To-Do-List-CLI.py    # CLI version of the To-Do List
+├── To-Do-List-GUI.py    # GUI version of the To-Do List using tkinter
 └── README.md           # This file
-\`\`\`
+```
 
 ---
 
